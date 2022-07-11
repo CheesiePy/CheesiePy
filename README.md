@@ -12,7 +12,7 @@
   
   - I enjoy painting 🎨 playing my electric guitar 🎸
   
-  - Currency starting my third year as Bsc undergrad
+  - Currently starting my third year as Bcs undergrad
   
   - I Love Technology 🛰 anything from old to new just feels like absolute magic for me 🚀
   
