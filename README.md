@@ -28,7 +28,7 @@
 
 
 ### __🌱 I’m currently learning:__
-  - I'm starting my 3rd in Bcs Undergraduate in Tel-Hai Collage, Northen Israel 
+  - I'm starting my 3rd in year as a Bcs Undergraduate in Tel-Hai Collage, Northen Israel 
   
   
 ---
