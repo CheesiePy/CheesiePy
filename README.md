@@ -22,19 +22,12 @@
 
 ### __🔭 I’m currently working on:__
 
-  - [My YouTube Channel](https://www.youtube.com/channel/UCVB7cmKhXGuT75V8pVUdJqA)
-  
-  - [Python ToolBox Project](https://github.com/CheesiePy/MBaseProjects)
-
 
 ### __🌱 I’m currently learning:__
   - I'm starting my 3rd year as a Bcs Undergraduate in Tel-Hai Collage, Northen Israel 
   
   
 ---
-
-
-[![Python Tutorial: Reading and Writing to Files](https://res.cloudinary.com/marcomontalbano/image/upload/v1657474915/video_to_markdown/images/youtube--By0VRnIyhUI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=By0VRnIyhUI&t=11s&ab_channel=MayLindenberg "Python Tutorial: Reading and Writing to Files")
 
 
 <!--
