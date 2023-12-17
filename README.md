@@ -19,17 +19,6 @@
   
 ---
 
-
-### __🔭 I’m currently working on:__
-
-
-### __🌱 I’m currently learning:__
-  - I'm starting my 3rd year as a Bcs Undergraduate in Tel-Hai Collage, Northen Israel 
-  
-  
----
-
-
 <!--
 **CheesiePy/CheesiePy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
