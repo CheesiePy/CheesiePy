@@ -10,9 +10,9 @@
   
   - I'm a creative problem solver 🧩
   
-  - I enjoy painting 🎨 playing my electric guitar 🎸
+  - I enjoy painting 🎨 and playing my electric guitar 🎸
   
-  - Currently starting my third year as Bcs undergrad
+  - Currently starting my fourth year as BCS undergrad
   
   - I Love Technology 🛰🚀
   
