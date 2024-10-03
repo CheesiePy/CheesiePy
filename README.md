@@ -2,7 +2,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/may-lindenberg-a58b401ab/"><img src="Profile.svg" align="right" height="170" width="170"></a>
+<a href="[https://www.linkedin.com/in/may-lindenberg-a58b401ab](https://media.licdn.com/dms/image/v2/D4D35AQE1oF9TYT0k5A/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1725009222460?e=1728590400&v=beta&t=hFzZGbnqS_DNPRXNPWkd2FTQeTYq2ur2ikWXzmuR47Q)/"><img src="Profile.svg" align="right" height="170" width="170"></a>
 
 
 
