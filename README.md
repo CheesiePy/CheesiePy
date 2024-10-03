@@ -17,8 +17,9 @@ In 2019, during the lockdown, I transitioned from teaching and guitar repair to 
 ## Skills
 
 - **Programming Languages:** Python, C++, C, Java, Js
-- **Machine Learning:** TensorFlow, Keras, scikit-learn
-- **Web Development:** React, 
+- **Machine Learning:** TensorFlow, Keras, Scikit-Learn
+- **Signal Processing:** Librosa, SciPy, Pandas, NumPy, Matplotlib
+- **Web Development:** Django, Flask, React
 - **Other Skills:** Creative problem-solving, teamwork, adaptability
 <!--
 ## Projects
