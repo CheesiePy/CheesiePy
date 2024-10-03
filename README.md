@@ -1,7 +1,5 @@
 # Hello World, I'm May Lindenberg 👋
 
-<a href="https://www.linkedin.com/in/may-lindenberg/"><img src="Profile.svg" align="right" height="170" width="170"></a>
-
 ## About Me
 
 - 🎓 **Fourth-year Computer Science undergraduate** passionate about programming and artificial intelligence.
