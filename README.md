@@ -1,32 +1,40 @@
 # Hello World, I'm May Lindenberg 👋
 
-## About Me
+## Professional Summary
 
-- 🎓 **Fourth-year Computer Science undergraduate** passionate about programming and artificial intelligence.
-- 👩‍🏫 **Former teacher and guitar repairer** who discovered a love for coding during the 2019 lockdown.
-- 🎸 **Musician and artist** who enjoys painting and playing the electric guitar.
-- 🤖 **Aspiring AI researcher** aiming to develop technologies in therapeutic and educational fields.
-- 🌱 **Lifelong learner** eager to explore new technologies and collaborate on innovative projects.
+Senior Full-Stack Engineer and AI Solutions Architect specializing in **Autonomous Agent Systems** and **Cloud Infrastructure**. I build digital ecosystems that bridge the gap between complex AI reasoning and high-performance production environments.
+
+- 🏗️ **AI Architect:** Expert in Model Context Protocol (MCP) and Agent Orchestration.
+- 🚀 **Full-Stack Lead:** Focused on Next.js 15 (App Router), TypeScript, and Modern UX.
+- ☁️ **Cloud Engineer:** Deep experience with GCP (Cloud Run, Artifact Registry) and Docker.
+- 🎸 **Legacy:** Former teacher and guitar repairer; I bring the precision of a craftsman to every line of code.
+- 🎨 **Artist & Musician:** Combining creative thinking with technical engineering.
+
+## Technical Arsenal
+
+- **Languages:** TypeScript (Expert), Node.js, Python (Data/Automation), Bash.
+- **Frontend:** Next.js 15, Tailwind CSS, Framer Motion, Responsive Design.
+- **Backend & Cloud:** Google Cloud Platform (GCP), Cloud Run, Docker, Microservices Architecture.
+- **Data & GIS:** SQL, PostGIS (Geospatial Analysis), Redis.
+- **AI & Tools:** Model Context Protocol (MCP), LLM Integration (Claude/Gemini), Claude Code CLI, Autonomous Sub-agents.
+- **Environment:** Arch Linux Specialist.
+
+## Featured Projects
+
+### 🔱 Atlas Protocol (AI Personal OS)
+An autonomous system that orchestrates daily trend discovery, automated building, and deployment. Features a real-time monitoring dashboard in Next.js 15 and complex integration of health, finance, and task data.
+
+### 📻 SmarteRadio (Cloud Microservices)
+A synchronized ecosystem of 4 microservices (`radio-api`, `stream-listener`, `context-engine`, `tv-client`) deployed on GCP Cloud Run using automated CI/CD pipelines.
+
+### 🏠 HomeServices AI
+An AI-driven triage and matching engine for on-demand home services, leveraging **PostGIS** for complex geospatial logic and provider-client matching.
 
 ## My Journey
 
-In 2019, during the lockdown, I transitioned from teaching and guitar repair to the world of programming. Starting with a Full-Stack Web Development course on Udemy, I embraced the challenge with enthusiasm. What began as a five-minute daily study grew into a passion that led me to pursue a Computer Science degree. I believe in the power of programming to make the world a better place through collaboration and innovation.
+What began in 2019 as a transition from teaching and guitar repair during the lockdown evolved into a deep-seated passion for engineering. From a 5-minute daily study habit to architecting complex AI-driven cloud systems, my journey is defined by relentless learning and the belief that clean, professional code can solve real-world human problems.
 
-## Skills
-
-- **Programming Languages:** Python, C++, C, Java, Js
-- **Machine Learning:** TensorFlow, Keras, Scikit-Learn
-- **Signal Processing:** Librosa, SciPy, Pandas, NumPy, Matplotlib
-- **Web Development:** Django, Flask, React
-- **Other Skills:** Creative problem-solving, teamwork, adaptability
-<!--
-## Projects
-
-- 🌐 **[Project Name](#):** Brief description of a project, highlighting your role and the technologies used.
-- 🤖 **[Another Project](#):** Brief description focusing on machine learning or AI aspects.
--->
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/may-lindenberg/)
 - 📫 **Email:** [maylindenberg@gmail.com](mailto:maylindenberg@gmail.com)
-
